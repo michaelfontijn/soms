@@ -51,28 +51,83 @@ function reverseString($stringToReverse)
 $stringlength = strlen($stringToReverse);
 $temp = "";
 
-    for($i = $stringlength;$i >= 0; $i--)
+    for($i = $stringlength -1;$i >= 0; $i--)
     {
-        $temp = $temp . $stringToReverse[$i -1];
+        $temp = $temp . $stringToReverse[$i];
     }
     $temp = strtolower($temp);
     return $temp;
 }
 
 
+function ArrayToString($tempArray = array())
+{
+    $tempString = "";
+    foreach($tempArray as $x)
+    {
+        $tempString =  $tempString . $x;
+    }
+    return $tempString;
+}
+
+function GetArrayForCurrentDayTime()
+{
+    $currentMonth = date('m' , time());
+    $time = date('h:i:s a', time());
+
+    $date = date('Y-m-d', time());
+    $day = date('l', strtotime($date));
+
+    $currentDayInformation =  array("Dayname" => $day, "Month" => $currentMonth ,"Time" =>  $time);
+    return $currentDayInformation;
+}
+
+function RekenMachine($whatToDo, $a, $b)
+{
+    if($whatToDo == "*")
+    {
+        return $a * $b;
+    }
+    else if($whatToDo == "+")
+    {
+        return $a + $b;
+    }
+    //weet niet zo goed hoe ik wortel wil doen weet niet eens welk teken dat is , is wel een build in method/ function voor:
+    //gmp_sqrt("9") zou de wortel van negen berekenen iGUES <3
+}
+function br()
+{
+    echo "<br>";
+}
+
 
 
 
 echo "Opdracht 1 sterrenbeeld";
 echo "Sterrenbeeld: " . sterrenBeeld(25,1);
-
-echo "<br>";
+br();
 
 echo "Opdracht 2 reverseString: ";
 echo reverseString("Michael");
+br();
 
 
+echo "Opdracht 3 array to string:";
+$snoepArray =  array("drop", "Loly", "Koek", "soms");
+br();
+echo ArrayToString($snoepArray);
+br();
 
+echo "Opdracht 4 array dagnaam tijd maand:)";
+print_r(GetArrayForCurrentDayTime());
+br();
 
+echo "Opdracht 5 rekenenenenen:";
+br();
+echo "5+5 = " . RekenMachine("+",5,5);
+br();
+echo "5*5 = " . RekenMachine("*",5,5);
+br();
 
+echo "Opdracht 6 "
 ?>
