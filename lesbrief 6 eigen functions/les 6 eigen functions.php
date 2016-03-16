@@ -95,6 +95,42 @@ function RekenMachine($whatToDo, $a, $b)
     //weet niet zo goed hoe ik wortel wil doen weet niet eens welk teken dat is , is wel een build in method/ function voor:
     //gmp_sqrt("9") zou de wortel van negen berekenen iGUES <3
 }
+
+function PrimeNumbers($numberOfPrimes)
+{
+    $primes = array();
+
+    $index = 0;
+    $primeCount = 0;
+
+    while (true)
+    {
+      //if(index / 2 =)
+    }
+}
+
+function prima($n){
+
+    for($i=1;$i<=$n;$i++){  //numbers to be checked as prime
+
+        $counter = 0;
+        for($j=1;$j<=$i;$j++){ //all divisible factors
+
+
+            if($i % $j==0){
+
+                $counter++;
+            }
+        }
+
+        //prime requires 2 rules ( divisible by 1 and divisible by itself)
+        if($counter==2){
+
+            print $i."<br/>";
+        }
+    }
+}
+
 function br()
 {
     echo "<br>";
@@ -118,7 +154,7 @@ br();
 echo ArrayToString($snoepArray);
 br();
 
-echo "Opdracht 4 array dagnaam tijd maand:)";
+echo "Opdracht 4 array dagnaam tijd maand:";
 print_r(GetArrayForCurrentDayTime());
 br();
 
@@ -129,5 +165,7 @@ br();
 echo "5*5 = " . RekenMachine("*",5,5);
 br();
 
-echo "Opdracht 6 "
+echo "Opdracht 6 priem getallen:";
+br();
+prima(400);
 ?>
