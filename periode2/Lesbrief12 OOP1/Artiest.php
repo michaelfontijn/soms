@@ -43,17 +43,38 @@ class Artiest
 
     public function Bijwerken($artiestId)
     {
+        $db = new Database();
+        $con =  $db->connectDB();
 
+
+        $con->query("UPDATE artiesten SET id='{value-1}',Voornaam='{value-2}',Achternaam='{value-3}',ArtiestenNaam='{value-4}',Land='{value-5}',Woonplaats='{value-6}',Geboortedatum='{value-7}',Website='{value-8}',Biografie='{value-9}' WHERE id='{}'");
+
+
+        echo "Gelukt!";
     }
 
     public function Verwijderen($artiestId)
     {
+        $db = new Database();
+        $con =  $db->connectDB();
 
+
+        $con->query("DELETE FROM artiesten WHERE id='{$artiestId}'");
+
+
+        echo "Gelukt!";
     }
 
     public function Lezen($artiestId)
     {
+        $db = new Database();
+        $con =  $db->connectDB();
 
+
+        $con->query("SELECT * FROM artiesten WHERE id='{$artiestId}'");
+
+
+        echo "Gelukt!";
     }
 
 
