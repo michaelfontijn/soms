@@ -70,12 +70,36 @@ class Artiest
         $db = new Database();
         $con =  $db->connectDB();
 
+        $result = $con->query("SELECT * FROM artiesten WHERE id='{$artiestId}'");
 
-        $con->query("SELECT * FROM artiesten WHERE id='{$artiestId}'");
-
-
-        echo "Gelukt!";
+        $return = null;
+        $i = 0;
+        if (mysqli_num_rows($result) > 0) {
+            while($row = mysqli_fetch_array($result)){
+                $return[$i][0] = $row[0];
+                $return[$i][1] = $row[1];
+                $return[$i][2] = $row[2];
+                $return[$i][3] = $row[3];
+                $return[$i][4] = $row[4];
+                $return[$i][5] = $row[5];
+                $return[$i][6] = $row[6];
+                $i++;
+            }
+        }
+        return $return;
     }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 }
