@@ -25,7 +25,7 @@ echo("<h1>Opdr 4 soms</h1>");
 
 <h1>Opdracht 5</h1>
 
-<form action="opdracht%205/opdracht5.php" method="post" enctype="multipart/form-data">
+<form action="opdracht 5/opdracht5.php" method="post" enctype="multipart/form-data">
     <h3>Select .doc of .docx bestand:</h3>
     <input type="file" name="fileToUpload2" id="fileToUpload2"><br/>
     <input type="submit" value="Upload" name="submit" class="btn btn-primary">

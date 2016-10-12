@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8885dd53-d579-4bd3-b133-b98c78e4b4fd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesbrief 6 eigen functions/les 6 eigen functions.php" afterPath="$PROJECT_DIR$/lesbrief 6 eigen functions/les 6 eigen functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leerjaar 3/Les 1/Calculator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leerjaar 3/Les 1/ConvertCecius.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leerjaar2/Toets2/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leerjaar2/Toets2/Recept.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leerjaar2/Toets2/ingrediënten.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/leerjaar2/Toets2/toets.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief 3 arrays\Arrays.php" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\index.php" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/index.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\login.php" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/login.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\pics\Beerus.png" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/pics/Beerus.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\pics\Cell.jpg" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/pics/Cell.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\pics\Frieza_(2).png" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/pics/Frieza_(2).png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\pics\Piccolo.jpg" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/pics/Piccolo.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\pics\gohan.png" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/pics/gohan.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\pics\goku.jpg" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/pics/goku.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\pics\goten.jpg" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/pics/goten.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\pics\kingCold.jpg" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/pics/kingCold.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\pics\mrSatan.jpg" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/pics/mrSatan.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\pics\vegeta.jpg" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/pics/vegeta.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesBrief7 databases\scriptje.php" afterPath="$PROJECT_DIR$/leerjaar2/lesBrief7 databases/scriptje.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesbrief 6 eigen functions\les 6 eigen functions.php" afterPath="$PROJECT_DIR$/leerjaar2/lesbrief 6 eigen functions/les 6 eigen functions.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesbrief2 else if switch\Lesbrief2ifElseSwitch.php" afterPath="$PROJECT_DIR$/leerjaar2/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesbrief4 DoForEachFor\index.php" afterPath="$PROJECT_DIR$/leerjaar2/lesbrief4 DoForEachFor/index.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesbrief5 Build in functions\les5BuildInFunctions.php" afterPath="$PROJECT_DIR$/leerjaar2/lesbrief5 Build in functions/les5BuildInFunctions.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesbrief8 fileManipulation\content\opdracht1.txt" afterPath="$PROJECT_DIR$/leerjaar2/lesbrief8 fileManipulation/content/opdracht1.txt" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesbrief8 fileManipulation\lesbrief8 fileManipulation.php" afterPath="$PROJECT_DIR$/leerjaar2/lesbrief8 fileManipulation/lesbrief8 fileManipulation.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\lesbrief8 fileManipulation\opdracht 5\opdracht5.php" afterPath="$PROJECT_DIR$/leerjaar2/lesbrief8 fileManipulation/opdracht 5/opdracht5.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\periode2\Lesbrief12 OOP1\Artiest.php" afterPath="$PROJECT_DIR$/leerjaar2/periode2/Lesbrief12 OOP1/Artiest.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\periode2\Lesbrief12 OOP1\Database.php" afterPath="$PROJECT_DIR$/leerjaar2/periode2/Lesbrief12 OOP1/Database.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\gitPHP\soms\periode2\Lesbrief12 OOP1\Lesbrief 12 OOP1.php" afterPath="$PROJECT_DIR$/leerjaar2/periode2/Lesbrief12 OOP1/Lesbrief 12 OOP1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="soms.iws" />
@@ -25,21 +54,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="les 6 eigen functions.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesbrief 6 eigen functions/les 6 eigen functions.php">
+      <file leaf-file-name="Calculator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leerjaar 3/Les 1/Calculator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.50268334">
-              <caret line="158" column="5" selection-start-line="158" selection-start-column="5" selection-end-line="158" selection-end-column="5" />
+            <state vertical-scroll-proportion="-11.769231">
+              <caret line="21" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Arrays.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesBrief 3 arrays/Arrays.php">
+      <file leaf-file-name="ConvertCecius.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leerjaar 3/Les 1/ConvertCecius.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23076923">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.36135957">
+              <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -58,6 +87,13 @@
         <option value="$PROJECT_DIR$/lesbrief5 Build in functions/les5BuildInFunctions.php" />
         <option value="$PROJECT_DIR$/lesBrief 3 arrays/Arrays.php" />
         <option value="$PROJECT_DIR$/lesbrief 6 eigen functions/les 6 eigen functions.php" />
+        <option value="$PROJECT_DIR$/Toets2/Database.php" />
+        <option value="$PROJECT_DIR$/Toets2/ingrediënten.php" />
+        <option value="$PROJECT_DIR$/Toets2/Recept.php" />
+        <option value="$PROJECT_DIR$/Toets2/toets.php" />
+        <option value="$PROJECT_DIR$/Leerjaar 3/les1.php" />
+        <option value="$PROJECT_DIR$/leerjaar 3/Les 1/Calculator.php" />
+        <option value="$PROJECT_DIR$/leerjaar 3/Les 1/ConvertCecius.php" />
       </list>
     </option>
   </component>
@@ -86,7 +122,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -134,35 +170,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesbrief 6 eigen functions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="soms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="soms" />
+              <option name="myItemId" value="leerjaar 3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesBrief 3 arrays" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="soms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="soms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesbrief2 else if switch" />
+              <option name="myItemId" value="Les 1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -176,12 +188,17 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="C:/xampp/php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../php" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/michael/Desktop/gitPHP/soms/lesBrief 3 arrays/Arrays.php" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\gitPHP\soms\Toets2" />
       <recent name="C:\Users\michael\Desktop\gitPHP\soms\lesbrief4 DoForEachFor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\gitPHP\soms\Leerjaar 3\les1" />
+      <recent name="C:\xampp\htdocs\gitPHP\soms\leerjaar2" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.php">
@@ -283,10 +300,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19818456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20726173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -349,35 +366,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="eigenFunctions af op laatste opdracht &quot;priem getallen&quot; na" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesbrief 6 eigen functions/les 6 eigen functions.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief 6 eigen functions/les 6 eigen functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="158" column="5" selection-start-line="158" selection-start-column="5" selection-end-line="158" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesBrief 3 arrays/Arrays.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief 6 eigen functions/les 6 eigen functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesBrief 3 arrays/Arrays.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
@@ -385,7 +388,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief 6 eigen functions/les 6 eigen functions.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/Toets2/toets.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -393,42 +396,167 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief5 Build in functions/les5BuildInFunctions.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/Toets2/ingrediënten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <marker date="1467712774268" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ingrediënten..." />
+            <marker date="1467712774268" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ingrediënten..." />
+            <marker date="1467712774268" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ingrediënten..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/Toets2/Recept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <marker date="1467713137206" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..recepten..." />
+            <marker date="1467713137206" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..artiesten..." />
+            <marker date="1467713137206" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ingrediënten..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/Toets2/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/periode2/Lesbrief12 OOP1/Artiest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="81" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="81" />
+          <folding>
+            <marker date="1463565016269" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1463565016269" expanded="true" signature="-1:-1" placeholder="UPDATE artie..." />
+            <marker date="1463565016269" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1463565016269" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..artiesten..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/periode2/Lesbrief12 OOP1/Lesbrief 12 OOP1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief 6 eigen functions/les 6 eigen functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief 6 eigen functions/les 6 eigen functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief 6 eigen functions/les 6 eigen functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief 6 eigen functions/les 6 eigen functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief 6 eigen functions/les 6 eigen functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief5 Build in functions/les5BuildInFunctions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief4 DoForEachFor/index.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief4 DoForEachFor/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief5 Build in functions/les5BuildInFunctions.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief5 Build in functions/les5BuildInFunctions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesBrief 3 arrays/Arrays.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
@@ -436,21 +564,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief4 DoForEachFor/index.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief4 DoForEachFor/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesBrief 3 arrays/Arrays.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
@@ -458,7 +586,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesBrief 3 arrays/Arrays.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="62" column="12" selection-start-line="49" selection-start-column="4" selection-end-line="62" selection-end-column="12" />
@@ -466,21 +594,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief4 DoForEachFor/index.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief4 DoForEachFor/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesBrief 3 arrays/Arrays.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="62" column="12" selection-start-line="49" selection-start-column="4" selection-end-line="62" selection-end-column="12" />
@@ -488,29 +616,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief4 DoForEachFor/index.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief4 DoForEachFor/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesBrief 3 arrays/Arrays.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesBrief 3 arrays/Arrays.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -518,46 +638,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief4 DoForEachFor/index.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief4 DoForEachFor/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35090908">
           <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief5 Build in functions/les5BuildInFunctions.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief5 Build in functions/les5BuildInFunctions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesBrief 3 arrays/Arrays.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief 6 eigen functions/les 6 eigen functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23076923">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="158" column="5" selection-start-line="158" selection-start-column="5" selection-end-line="158" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesbrief 6 eigen functions/les 6 eigen functions.php">
+    <entry file="file://$PROJECT_DIR$/leerjaar2/periode2/Lesbrief12 OOP1/Lesbrief 12 OOP1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50268334">
-          <caret line="158" column="5" selection-start-line="158" selection-start-column="5" selection-end-line="158" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/Toets2/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/periode2/Lesbrief12 OOP1/Artiest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="81" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="81" />
+          <folding>
+            <marker date="1463565016269" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1463565016269" expanded="true" signature="-1:-1" placeholder="UPDATE artie..." />
+            <marker date="1463565016269" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1463565016269" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..artiesten..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/Toets2/Recept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <marker date="1467713137206" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..recepten..." />
+            <marker date="1467713137206" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..artiesten..." />
+            <marker date="1467713137206" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ingrediënten..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/Toets2/ingrediënten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <marker date="1467712774268" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ingrediënten..." />
+            <marker date="1467712774268" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ingrediënten..." />
+            <marker date="1467712774268" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..ingrediënten..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/Toets2/toets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesbrief2 else if switch/Lesbrief2ifElseSwitch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-81.07692">
+          <caret line="124" column="20" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar2/lesBrief 3 arrays/Arrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.115385">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar 3/Les 1/Calculator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231">
+          <caret line="21" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leerjaar 3/Les 1/ConvertCecius.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36135957">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
           <folding />
         </state>
       </provider>
