@@ -37,6 +37,7 @@ if(isset($_POST['btnConvert'])) {
 <?php
 Function convert($celcius, $fahrenheit)
 {
+
     if($celcius != "")
     {
         $answer = ($celcius * 1.8) + 32;

@@ -94,9 +94,9 @@ else
 ?>
 <!-- Opdracht 4-->
 <form name="formGeboortejaar" action="#" method="post">
-<p>Verkorte if else soms </p>
-<input type="text" name="txtGeboortjeJaarKort" />
-<input type="submit" name="berekenLeeftijdKort" value="Check wat JOUW TIJD was!" />
+	<p>Verkorte if else soms </p>
+	<input type="text" name="txtGeboortjeJaarKort" />
+	<input type="submit" name="berekenLeeftijdKort" value="Check wat JOUW TIJD was!" />
 </form>
 
 <?php
