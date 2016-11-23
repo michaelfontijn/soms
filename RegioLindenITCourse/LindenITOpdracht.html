@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tutorial Linden IT</title>
+    <link rel="stylesheet" type="text/css" href="css/ui-light.css">
+    <link rel="stylesheet" type="text/css" href="css/linden.css">
+    <script src="js/ui.js"></script>
+    <script src="js/base.js"></script>
+</head>
+<body>
+
+<aside>
+    <section>
+
+        <span id="callmenu" class="menu-button"></span>
+
+        <!-- dit is een hrgoup element, gebruikt voor het greuperen van h1 t/m h6 elementen -->
+        <hgroup>
+            <h1>Tutorial</h1>
+            <h2>HTML5/CSS3 & JavaScript</h2>
+        </hgroup>
+
+        <!-- plaats hier de 4 <article> elementen -->
+        <article>
+            <h1>Dit is een hele moooie titel</h1>
+            <p>Mijn naam is Michael Fontijn, HOI!</p>
+        </article>
+
+        <article>
+            <h4>Video</h4>
+            <video id="movie" width="400" controls autoplay muted loop>
+                <source src="video/movie.mp4" type="video/mp4">
+                Your browser does not support HTML5 video.
+            </video>
+            <br><br>
+            <button id="playmovie" class="win-button">Play</button>
+            <button id="stopmovie" class="win-button">Pauze</button>
+        </article>
+
+
+        <article>
+            <h4>Audio</h4>
+            <audio id="sound" controls autoplay muted loop>
+                <source src="audio/watch.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+            <br><br>
+            <button id="playsound" class="win-button">Play</button>
+            <button id="stopsound" class="win-button">Pauze</button>
+
+        </article>
+
+
+        <article>
+            <form>
+                <input type="text" required placeholder="soms"><br>
+                <input type="email" required placeholder="eamilAdress@somthing.iets"><br><br>
+                <button type="submit" class="win-button small">Send</button>
+            </form>
+
+
+        </article>
+
+    </section>
+</aside>
+
+<section id="main">
+    <nav>
+        <ul>
+            <li>
+                <svg id="Home" width="150" height="150">
+                    <rect width="150" height="150" style="fill:#bd1d49; stroke:#56f442; stroke-width:4"  />
+                    <text style="fill:#fff;" x="40%" y="55%">&#xE10F;</text>
+                </svg>
+            </li>
+            <li>
+                <svg id="Video" width="150" height="150">
+                    <circle cx="50" cy="50" r="45" style="fill:#7442f4;stroke:black;stroke-width:3"></circle>
+                    <text style="fill:#fff;" x="40%" y="55%">&#xE10F;</text>
+                </svg>
+            </li>
+            <li>
+                <svg id="Audio" width="150" height="150">
+                    <polygon points="10,10 10,145 90,75" style="fill:#42f4e8;stroke:#f45642;stroke-width:6" />
+                    <text style="fill:#fff;" x="40%" y="55%">&#xE10F;</text>
+                </svg>
+            </li>
+            <li>
+                <svg id="Form" width="150" height="150">
+                    <rect width="150" height="150" style="fill:#black; stroke:#fff; stroke-width:3"  />
+                    <text style="fill:#fff;" x="40%" y="55%">&#xE10F;</text>
+                </svg>
+            </li>
+
+
+        </ul>
+    </nav>
+</section>
+
+
+<footer></footer>
+<script src="js/linden.js"></script>
+</body>
+</html>

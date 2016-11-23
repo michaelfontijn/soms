@@ -1,0 +1,146 @@
+/* Defaults */
+body, p {
+	font-family: 'Segoe UI', Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 400;
+	color: #4390e0;
+}
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+/* analyseer deze code */
+aside {
+	width: 40%;
+	float: left;
+	background: #fff;
+	padding: 1em 2em;
+	box-sizing: border-box;
+	position:relative;
+	z-index:0;
+}
+
+/* verberg de articles hier door de juiste properties te geven */
+aside article {
+	opacity:0;
+	postion: absolute;
+	z-index:0;
+	}
+
+#main {
+	width: 60%;
+	float: right;
+	background: #4390e0;
+	padding: 4em;
+	box-sizing: border-box;
+	position:relative;
+	z-index:1;	
+}
+
+
+/* SVG's */
+svg {
+	cursor:pointer;
+	transition:400ms all ease-out;
+	}
+
+svg:hover {
+	opacity:0.5;
+	}
+
+/* analyseer deze code */
+svg text {
+	font-family: "Symbols";
+    font-size: 28px;
+    color: #fff;
+}
+
+/* Animations 
+
+We maken gebruik van standaard animaties uit WinJS ui. 
+
+*/
+.fadeIn {
+	-webkit-animation: WinJS-opacity-in 0.3s normal forwards; 
+  	 -moz-animation:   WinJS-opacity-in 0.3s normal forwards;
+  	 -o-animation:     WinJS-opacity-in 0.3s normal forwards;	
+	 z-index:1;
+	}
+
+.fadeOut {
+	-webkit-animation: WinJS-opacity-out 0.3s normal forwards; 
+  	-moz-animation:    WinJS-opacity-out 0.3s normal forwards;
+  	-o-animation:      WinJS-opacity-out 0.3s normal forwards;	
+	}
+
+
+.showmenu {
+	 -webkit-animation: showmenu 0.3s normal forwards; 
+  	 -moz-animation:    showmenu 0.3s normal forwards;
+  	 -o-animation:      showmenu 0.3s normal forwards;	
+  	 opacity: 0.9;	
+	}
+	
+
+@keyframes showmenu {
+  from {
+    left: -100%;
+  }
+  to {
+    left: 0;
+  }
+}
+
+#callmenu {
+	display:none;
+	}
+
+.menu-button::before {
+    content: "\E14C";
+}
+.menu-button {
+    font-family: "Symbols";
+    font-size: 28px;
+    color: #5729c1;
+	cursor:pointer;
+}	
+
+@media screen and (max-width: 1280px) {
+	aside {
+		width: 50%;
+	}
+	#main {
+		width: 50%;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	aside {
+		width: 60%;
+	}
+	#main {
+		width: 40%;
+	}
+
+}
+
+@media screen and (max-width: 480px) {
+	aside {
+		width: 100%;
+		float:none;
+	}
+	#main {
+		position:fixed;
+		width: 100%;
+		float:none;
+		top:0;
+		height:100%;
+		left:-100%;
+	}
+	#callmenu {
+		display:block;
+	}
+}
