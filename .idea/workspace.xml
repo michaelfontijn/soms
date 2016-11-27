@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8885dd53-d579-4bd3-b133-b98c78e4b4fd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/video/movie.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/audio/watch.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/LindenITOpdracht.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/js/WinJS.intellisense-setup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/js/WinJS.intellisense.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/js/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/js/base.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/js/base.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/css/linden.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/js/linden.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/css/ui-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/css/ui-dark.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/css/ui-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/css/ui-light.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/js/ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/js/ui.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/js/ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/js/en-US/ui.strings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RegioLindenITCourse/LindenITOpdracht.html" afterPath="$PROJECT_DIR$/RegioLindenITCourse/LindenITOpdracht.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RegioLindenITCourse/js/linden.js" afterPath="$PROJECT_DIR$/RegioLindenITCourse/js/linden.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="soms.iws" />
@@ -42,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LindenITOpdracht.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LindenITOpdracht.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RegioLindenITCourse/LindenITOpdracht.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
-              <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.48555955">
+              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#rect#0;n#svg#0;n#li#0;n#ul#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#text#0;n#svg#0;n#li#0;n#ul#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -61,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="linden.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="linden.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RegioLindenITCourse/css/linden.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3281787">
+            <state vertical-scroll-proportion="0.0">
               <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
               <folding />
             </state>
@@ -74,8 +58,8 @@
       <file leaf-file-name="linden.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RegioLindenITCourse/js/linden.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state vertical-scroll-proportion="-10.074074">
+              <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -103,8 +87,9 @@
         <option value="$PROJECT_DIR$/lesBrief 3 arrays/Arrays.php" />
         <option value="$PROJECT_DIR$/lesbrief 6 eigen functions/les 6 eigen functions.php" />
         <option value="$PROJECT_DIR$/Robin kloten/soms.php" />
-        <option value="$PROJECT_DIR$/RegioLindenITCourse/LindenITOpdracht.html" />
         <option value="$PROJECT_DIR$/RegioLindenITCourse/css/linden.css" />
+        <option value="$PROJECT_DIR$/RegioLindenITCourse/js/linden.js" />
+        <option value="$PROJECT_DIR$/RegioLindenITCourse/LindenITOpdracht.html" />
       </list>
     </option>
   </component>
@@ -149,9 +134,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files" />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,6 +167,9 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
       </pane>
       <pane id="Scratches" />
     </panes>
@@ -293,7 +278,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458068467084</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="eigenFunctions af op laatste opdracht &quot;priem getallen&quot; na">
+      <created>1479909520959</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1479909520959</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -376,17 +367,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RegioLindenITCourse/js/en-US/ui.strings.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RegioLindenITCourse/LindenITOpdracht.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
+        <state vertical-scroll-proportion="0.0">
           <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#rect#0;n#svg#0;n#li#0;n#ul#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -401,6 +384,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RegioLindenITCourse/css/linden.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RegioLindenITCourse/js/linden.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -409,11 +400,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RegioLindenITCourse/js/en-US/ui.strings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RegioLindenITCourse/css/linden.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3281787">
+        <state vertical-scroll-proportion="0.0">
           <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegioLindenITCourse/js/linden.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.074074">
+          <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegioLindenITCourse/LindenITOpdracht.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48555955">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#rect#0;n#svg#0;n#li#0;n#ul#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#svg#0;n#li#0;n#ul#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#circle#0;n#svg#0;n#li#1;n#ul#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#svg#0;n#li#1;n#ul#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#polygon#0;n#svg#0;n#li#2;n#ul#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#svg#0;n#li#2;n#ul#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#rect#0;n#svg#0;n#li#3;n#ul#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#0;n#svg#0;n#li#3;n#ul#0;n#nav#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

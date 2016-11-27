@@ -8,8 +8,10 @@
 	var	$articles = document.querySelectorAll('aside article');
 	
 	// navigatie variabelen
-	var	$homebutton = document.querySelector('#home');
-	
+	var	$homebutton = document.querySelector('#Home');
+	var $video	= document.querySelector('#Video');
+	var $audio = document.querySelector('#Audio');
+	var $form = document.querySelector('#Form');
 	// #####    -->  maak hier 3 nieuwe variabelen voor de overige SVG buttons
 	
 	
@@ -24,13 +26,30 @@
 		$articles[1].classList.remove('fadeIn');
 		$articles[2].classList.remove('fadeIn');
 		$articles[3].classList.remove('fadeIn');
-		}; 
-	
-	// #####    -->  maak hier 3 nieuwe functies zoals de bovenstaande voor de overige SVG buttons
-	
-	
-	
-		
+		};
+
+	$video.onclick=function(){
+		$articles[0].classList.remove('fadeIn');
+		$articles[1].classList.add('fadeIn');
+		$articles[2].classList.remove('fadeIn');
+		$articles[3].classList.remove('fadeIn');
+	}
+
+	$audio.onclick=function(){
+		$articles[0].classList.remove('fadeIn');
+		$articles[1].classList.remove('fadeIn');
+		$articles[2].classList.add('fadeIn');
+		$articles[3].classList.remove('fadeIn');
+	}
+
+	$form.onclick=function(){
+		$articles[0].classList.remove('fadeIn');
+		$articles[1].classList.remove('fadeIn');
+		$articles[2].classList.remove('fadeIn');
+		$articles[3].classList.add('fadeIn');
+	}
+
+
 	// audio variabelen	
 	var	$sound = document.querySelector('#sound');		
 	
@@ -43,15 +62,24 @@
 		}; 
 	$stopsound.onclick=function(){
 		$sound.pause();
-		}; 
-		
+		};
+
+	//movie vars
+	var $movie = document.querySelector('#movie');
+	var $playMovie = document.querySelector('#playmovie');
+	var $stopMovie = document.querySelector('#stopmovie');
+	var $muteSound = document.querySelector('#muteSound')
 	
-	// #####    -->  maak hier de bediening voor de videobuttons zaosl hierboven de audio. 
-	// #####    -->  Anaylyseer de HTML van de audio en video en let goed op de ID's
-	
-	
-	
-	
+	$playMovie.onclick=function(){
+		$movie.play();
+	};
+	$stopMovie.onclick=function(){
+		$movie.pause();
+	};
+	$muteSound.onclick = function(){
+			$movie.muted = !$movie.muted;
+	}
+
 	
 	// functie voor reponsive menu
 	$menucall.onclick=function(){
