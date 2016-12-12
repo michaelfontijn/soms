@@ -2,26 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8885dd53-d579-4bd3-b133-b98c78e4b4fd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr 2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr 2/opdr2Loops.js" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\LindenITOpdracht.html" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/LindenITOpdracht.html" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\audio\watch.mp3" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/audio/watch.mp3" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\css\linden.css" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/css/linden.css" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\css\ui-dark.css" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/css/ui-dark.css" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\css\ui-dark.min.css" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/css/ui-dark.min.css" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\css\ui-light.css" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/css/ui-light.css" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\css\ui-light.min.css" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/css/ui-light.min.css" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\js\WinJS.intellisense-setup.js" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/js/WinJS.intellisense-setup.js" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\js\WinJS.intellisense.js" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/js/WinJS.intellisense.js" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\js\base.js" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/js/base.js" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\js\base.min.js" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/js/base.min.js" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\js\base.min.js.map" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/js/base.min.js.map" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\js\en-US\ui.strings.js" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/js/en-US/ui.strings.js" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\js\linden.js" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/js/linden.js" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\js\ui.js" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/js/ui.js" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\js\ui.min.js" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/js/ui.min.js" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\js\ui.min.js.map" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/js/ui.min.js.map" />
-      <change type="MOVED" beforePath="C:\Users\mich2\soms\RegioLindenITCourse\video\movie.mp4" afterPath="$PROJECT_DIR$/RegioLindenITCourse/opdr1/video/movie.mp4" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="soms.iws" />
@@ -357,7 +337,13 @@
       <option name="project" value="LOCAL" />
       <updated>1481389986120</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="soms">
+      <created>1481555777080</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1481555777080</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -375,6 +361,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -383,7 +370,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
